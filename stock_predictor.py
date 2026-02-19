@@ -24,7 +24,7 @@ model = LinearRegression()
 model.fit(X, y)
 
 # 5. Predict next day
-last_close = float(data['Close'].iloc[-1])
+last_close = data['Close'].iloc[-1].item()
 predicted_price = model.predict([[last_close]])[0]
 print(f"\nPredicted next closing price for {ticker}: ${predicted_price:.2f}")
 
