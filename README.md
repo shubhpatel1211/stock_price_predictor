@@ -35,6 +35,8 @@ A simple Python CLI tool that downloads the last **60 days of stock data** using
 📊 **Stock:** TSLA  
 ⏱️ **Data Period:** Last 60 Days
 
+---
+
 ### Terminal Output
 
 Enter Stock Symbol (e.g., AAPL, TSLA): TSLA
@@ -42,6 +44,7 @@ Enter Stock Symbol (e.g., AAPL, TSLA): TSLA
 
 Predicted next closing price for TSLA: $414.36
 
+---
 
 ### Visualization
 
