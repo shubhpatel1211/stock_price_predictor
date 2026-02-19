@@ -1,0 +1,5 @@
+#necessary imports
+yfinance
+pandas
+scikit-learn
+matplotlib
