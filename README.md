@@ -45,7 +45,7 @@ Predicted next closing price for TSLA: $414.36
 
 ### Visualization
 
-![TSLA Prediction](Image/assets/tsla_prediction.png)
+![TSLA Prediction](assets/tsla_prediction.png)
 
 The chart shows:
 
